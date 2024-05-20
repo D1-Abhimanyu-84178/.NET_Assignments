@@ -1,0 +1,15 @@
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\bin\Debug\net6.0\Question6-Date.exe
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\bin\Debug\net6.0\Question6-Date.deps.json
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\bin\Debug\net6.0\Question6-Date.runtimeconfig.json
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\bin\Debug\net6.0\Question6-Date.dll
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\bin\Debug\net6.0\Question6-Date.pdb
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\obj\Debug\net6.0\Question6-Date.GeneratedMSBuildEditorConfig.editorconfig
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\obj\Debug\net6.0\Question6-Date.AssemblyInfoInputs.cache
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\obj\Debug\net6.0\Question6-Date.AssemblyInfo.cs
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\obj\Debug\net6.0\Question6-Date.csproj.CoreCompileInputs.cache
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\obj\Debug\net6.0\Question6-Date.sourcelink.json
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\obj\Debug\net6.0\Question6-Date.dll
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\obj\Debug\net6.0\refint\Question6-Date.dll
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\obj\Debug\net6.0\Question6-Date.pdb
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\obj\Debug\net6.0\Question6-Date.genruntimeconfig.cache
+E:\PG-DAC(ASSIGNMENTS)\.NET_Assignments\Assignments\Question6-Date\obj\Debug\net6.0\ref\Question6-Date.dll
