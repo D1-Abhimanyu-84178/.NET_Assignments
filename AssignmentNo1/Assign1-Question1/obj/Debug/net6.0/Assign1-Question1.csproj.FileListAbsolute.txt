@@ -1,0 +1,15 @@
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\bin\Debug\net6.0\Assign1-Question1.exe
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\bin\Debug\net6.0\Assign1-Question1.deps.json
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\bin\Debug\net6.0\Assign1-Question1.runtimeconfig.json
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\bin\Debug\net6.0\Assign1-Question1.dll
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\bin\Debug\net6.0\Assign1-Question1.pdb
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\obj\Debug\net6.0\Assign1-Question1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\obj\Debug\net6.0\Assign1-Question1.AssemblyInfoInputs.cache
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\obj\Debug\net6.0\Assign1-Question1.AssemblyInfo.cs
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\obj\Debug\net6.0\Assign1-Question1.csproj.CoreCompileInputs.cache
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\obj\Debug\net6.0\Assign1-Question1.sourcelink.json
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\obj\Debug\net6.0\Assign1-Question1.dll
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\obj\Debug\net6.0\refint\Assign1-Question1.dll
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\obj\Debug\net6.0\Assign1-Question1.pdb
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\obj\Debug\net6.0\Assign1-Question1.genruntimeconfig.cache
+E:\PG-DAC(Assignments)\AssignmentNo1\Assign1-Question1\obj\Debug\net6.0\ref\Assign1-Question1.dll
