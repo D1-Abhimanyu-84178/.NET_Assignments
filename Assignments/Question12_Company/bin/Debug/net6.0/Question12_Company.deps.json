@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Question12_Company/1.0.0": {
+        "dependencies": {
+          "Question8_EmpDept": "1.0.0"
+        },
+        "runtime": {
+          "Question12_Company.dll": {}
+        }
+      },
+      "Question6-Date/1.0.0": {
+        "runtime": {
+          "Question6-Date.dll": {}
+        }
+      },
+      "Question8_EmpDept/1.0.0": {
+        "dependencies": {
+          "Question6-Date": "1.0.0",
+          "Quetion7-Person": "1.0.0"
+        },
+        "runtime": {
+          "Question8_EmpDept.dll": {}
+        }
+      },
+      "Quetion7-Person/1.0.0": {
+        "dependencies": {
+          "Question6-Date": "1.0.0"
+        },
+        "runtime": {
+          "Quetion7-Person.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Question12_Company/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Question6-Date/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Question8_EmpDept/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Quetion7-Person/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
