@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Question18/1.0.0": {
+        "dependencies": {
+          "EmpLib": "1.0.0"
+        },
+        "runtime": {
+          "Question18.dll": {}
+        }
+      },
+      "EmpLib/1.0.0": {
+        "runtime": {
+          "EmpLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Question18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
