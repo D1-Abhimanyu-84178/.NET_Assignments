@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Question6-Date/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Question6-Date.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Question6-Date.dll": {}
+        }
+      },
+      "Question8_EmpDept/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Question6-Date": "1.0.0",
+          "Quetion7-Person": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Question8_EmpDept.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Question8_EmpDept.dll": {}
+        }
+      },
+      "Quetion7-Person/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Question6-Date": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Quetion7-Person.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Quetion7-Person.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Question6-Date/1.0.0": {
+      "type": "project",
+      "path": "../Question6-Date/Question6-Date.csproj",
+      "msbuildProject": "../Question6-Date/Question6-Date.csproj"
+    },
+    "Question8_EmpDept/1.0.0": {
+      "type": "project",
+      "path": "../Question8_EmpDept/Question8_EmpDept.csproj",
+      "msbuildProject": "../Question8_EmpDept/Question8_EmpDept.csproj"
+    },
+    "Quetion7-Person/1.0.0": {
+      "type": "project",
+      "path": "../Quetion7-Person/Quetion7-Person.csproj",
+      "msbuildProject": "../Quetion7-Person/Quetion7-Person.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Question8_EmpDept >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\abhip\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\WageEmp\\Question10_WageEmp.csproj",
+      "projectName": "Question10_WageEmp",
+      "projectPath": "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\WageEmp\\Question10_WageEmp.csproj",
+      "packagesPath": "C:\\Users\\abhip\\.nuget\\packages\\",
+      "outputPath": "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\WageEmp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\abhip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Question8_EmpDept\\Question8_EmpDept.csproj": {
+              "projectPath": "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Question8_EmpDept\\Question8_EmpDept.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
