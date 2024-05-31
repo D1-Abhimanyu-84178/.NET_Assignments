@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Quetion7-Person\\Quetion7-Person.csproj": {}
+  },
+  "projects": {
+    "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Question6-Date\\Question6-Date.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Question6-Date\\Question6-Date.csproj",
+        "projectName": "Question6-Date",
+        "projectPath": "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Question6-Date\\Question6-Date.csproj",
+        "packagesPath": "C:\\Users\\abhip\\.nuget\\packages\\",
+        "outputPath": "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Question6-Date\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Quetion7-Person\\Quetion7-Person.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Quetion7-Person\\Quetion7-Person.csproj",
+        "projectName": "Quetion7-Person",
+        "projectPath": "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Quetion7-Person\\Quetion7-Person.csproj",
+        "packagesPath": "C:\\Users\\abhip\\.nuget\\packages\\",
+        "outputPath": "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Quetion7-Person\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Question6-Date\\Question6-Date.csproj": {
+                "projectPath": "E:\\PG-DAC(ASSIGNMENTS)\\.NET_Assignments\\Assignments\\Question6-Date\\Question6-Date.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
